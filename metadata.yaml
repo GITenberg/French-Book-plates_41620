@@ -1,0 +1,27 @@
+_repo: French-Book-plates_41620
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41620-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamilton, Walter
+    birthdate: 1844
+    deathdate: 1899
+    gutenberg_agent_id: '41268'
+    url: http://www.gutenberg.org/2009/agents/41268
+description: ''
+gutenberg_issued: '2012-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41620'
+  lccn: 05037496
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookplates, French'
+- !lcc 'Z'
+title: French Book-plates
+url: http://www.gutenberg.org/ebooks/41620
